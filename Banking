@@ -1,0 +1,6 @@
+Class Banking
+{
+public static void main(string[]aargs)
+{
+System.out.println("hello")
+}
