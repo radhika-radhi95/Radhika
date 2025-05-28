@@ -1,7 +1,7 @@
-class test
+class Document
 {
 pubic static void main(string[] args)
 {
-System.out.pintln("good morning");
+System.out.pintln("Document");
 }
 }
