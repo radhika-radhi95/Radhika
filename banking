@@ -1,0 +1,7 @@
+class test
+{
+pubic static void main(string[] args)
+{
+System.out.pintln("good morning");
+}
+}
